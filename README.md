@@ -8,17 +8,17 @@
 
 ## Table of Contents
 
-  - [About The Project]
-  - [Features]
-  - [Getting Started]
-      - [Prerequisites]
-      - [Installation]
-  - [Usage]
-  - [Project Structure]
-  - [Contributing]
-  - [License]
-  - [Contact]
-  - [Acknowledgements]
+  - About The Project
+  - Features
+  - Getting Started
+      - Prerequisites
+      - Installation
+  - Usage
+  - Project Structure
+  - Contributing
+  - License
+  - Contact
+  - Acknowledgements
 
 ## About The Project
 
