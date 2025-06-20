@@ -118,9 +118,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your\_email@example.com](mailto:your_email@example.com)
+Your Name - [ghoshyathartha51103@example.com](mailto:ghoshyathartha51103@example.com)
 
-Project Link: [https://github.com/your\_username/Lane-Detection](https://www.google.com/search?q=https://github.com/your_username/Lane-Detection)
+Project Link: [https://github.com/YatharthaGhosh/Lane-Detection](https://www.google.com/search?q=https://github.com/YatharthaGhosh/Lane-Detection)
 
 ## Acknowledgements
 
